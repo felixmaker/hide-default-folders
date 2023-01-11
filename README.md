@@ -4,7 +4,7 @@ Hide-default-folders is an easy-to-use tool that helps you manage show or hide s
 
 ![screenshot.png](screenshots/screenshot.png)
 
-This tool helps you manage show or hide some user profile default folders that default shown in explorer list below:
+## Folders default shown in explorer
 
  - 3D Objects
  - Desktop
