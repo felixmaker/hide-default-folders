@@ -16,5 +16,5 @@ Hide-default-folders is an easy-to-use tool that helps you manage show or hide s
 
 ## Requirements
 
- - Windows 7 and above.
+ - Windows 10 and above.
  - Run as administrator
